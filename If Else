@@ -1,0 +1,9 @@
+# IF ELSE
+
+nilai = int(input("Masukkan NIlai: "))
+nilai_minimal_kelulusan = 75
+
+if nilai >= nilai_minimal_kelulusan:
+   print("Lulus")
+else:
+   print("Tidak Lulus")
